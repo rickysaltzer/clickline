@@ -81,7 +81,7 @@ $ ./clickline-0.0.1/bin/clickline server --config clickline-0.0.1/conf/server.co
 If you don't have a bunch of LineProtocol data sitting around, or have a live service to post to. Don't worry, 
 because we've included a simulator that for demonstration purposes.
 
-```shell
+```
 ./clickline-0.0.1/bin/clickline generate_metrics --help
 Usage: click-line generate_metrics [OPTIONS]
 
